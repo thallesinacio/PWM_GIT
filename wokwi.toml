@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/PWM-TAREFA.hex'
+elf = 'build/PWM-TAREFA.elf'
